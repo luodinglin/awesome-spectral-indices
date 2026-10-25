@@ -6,7 +6,7 @@ pageClass: "index-page domain-vegetation"
 hero:
   name: "TMTCgreenness"
   text: "Thematic Mapper Tasseled Cap Greenness Feature"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #57</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #58</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1109/TGRS.1984.350619"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TMTCgreenness+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TMTCgreenness+%E2%80%94+"
 ---
 
 <script setup>

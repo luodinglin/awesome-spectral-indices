@@ -16,7 +16,7 @@ hero:
       link: "https://www.omicsonline.org/scientific-reports/JGRS-SR136.pdf"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NBAI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NBAI+%E2%80%94+"
 ---
 
 <script setup>

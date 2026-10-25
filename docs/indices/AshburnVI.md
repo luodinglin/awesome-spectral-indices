@@ -16,7 +16,7 @@ hero:
       link: "https://ntrs.nasa.gov/citations/19800007243"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+AshburnVI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+AshburnVI+%E2%80%94+"
 ---
 
 <script setup>

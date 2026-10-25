@@ -6,7 +6,7 @@ pageClass: "index-page domain-vegetation"
 hero:
   name: "GCC"
   text: "Green Chromatic Coordinate"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #87</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #84</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/0034-4257(87)90088-5"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+GCC+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+GCC+%E2%80%94+"
 ---
 
 <script setup>

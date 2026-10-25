@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.3390/w12051339"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NDSInw+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NDSInw+%E2%80%94+"
 ---
 
 <script setup>

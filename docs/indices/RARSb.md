@@ -6,7 +6,7 @@ pageClass: "index-page domain-vegetation"
 hero:
   name: "RARSb"
   text: "Ratio Analysis of Reflectance Spectra for Chlorophyll b"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-hyperspectral\">Hyperspectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #84</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-hyperspectral\">Hyperspectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #86</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/0034-4257(92)90089-3"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RARSb+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RARSb+%E2%80%94+"
 ---
 
 <script setup>

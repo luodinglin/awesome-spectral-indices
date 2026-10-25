@@ -16,7 +16,7 @@ hero:
       link: "http://dx.doi.org/10.1109/TGRS.2007.904836"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TCI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TCI+%E2%80%94+"
 ---
 
 <script setup>

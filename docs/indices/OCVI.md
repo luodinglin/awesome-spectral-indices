@@ -16,7 +16,7 @@ hero:
       link: "http://dx.doi.org/10.1007/s11119-008-9075-z"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+OCVI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+OCVI+%E2%80%94+"
 ---
 
 <script setup>

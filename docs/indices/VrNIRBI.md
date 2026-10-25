@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/j.ecolind.2015.03.037"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+VrNIRBI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+VrNIRBI+%E2%80%94+"
 ---
 
 <script setup>

@@ -16,7 +16,7 @@ hero:
       link: "https://digital.csic.es/bitstream/10261/157427/1/6th_EARsel_Workshop.pdf"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+IBAIM+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+IBAIM+%E2%80%94+"
 ---
 
 <script setup>

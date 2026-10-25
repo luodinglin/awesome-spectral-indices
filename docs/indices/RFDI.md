@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.5194/bg-9-179-2012"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RFDI+%E2%80%94+"
+      link: "https://github.com/luodinglin/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RFDI+%E2%80%94+"
 ---
 
 <script setup>
